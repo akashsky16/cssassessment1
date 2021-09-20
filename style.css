@@ -1,0 +1,63 @@
+h1 {
+    color: red;
+    
+}
+
+p{
+    color: red;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 600;
+}
+
+
+li{
+    color: brown;
+    font-size: 18px;
+}
+
+.listitem{
+    text-indent: -8px;
+    padding: 10px;
+    color: brown;
+    font-size: 15px;
+}
+
+.strikeout{
+    text-decoration: line-through;
+}
+
+.spancolour{
+    background-color: yellow;
+}
+
+.underline{
+    text-decoration: underline;
+    font-style: italic;
+}
+
+ul{
+    letter-spacing: 5px;
+}
+.yellowbg{
+    background-color: yellow;
+}
+
+.para{
+    color: chocolate;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.prep{
+    font-style: italic;
+    background-color: yellow;
+    font-size: 18px;
+    color: red;
+    font-weight: bold;
+    
+}
+a{
+    text-decoration: none;
+}
